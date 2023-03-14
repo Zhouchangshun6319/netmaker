@@ -1,4 +1,4 @@
-# How to contribute to Netmaker
+# How to contribute to Netmaker test
 
 Hey! We're glad you're here. We need your help making Netmaker as great as it can be.
 
